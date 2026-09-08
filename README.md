@@ -1,3 +1,5 @@
+<img width="1380" height="692" alt="task2_example" src="https://github.com/user-attachments/assets/75973053-9867-439b-ae27-2e97cb10b7e8" />
+<img width="1380" height="692" alt="task2_example" src="https://github.com/user-attachments/assets/f3c99b19-82c5-482d-be75-074bda448c2b" />
 # CS5204 - File System Checker
 
 ## Introduction
@@ -248,7 +250,7 @@ you certainly should do.
 
 **As part of the second task of the assignment, you will take a screenshot of your terminal which
 clearly shows the booted xv6 and your username. For example, below is from my terminal.**
-<img width="1380" height="692" alt="task2_example" src="https://github.com/user-attachments/assets/d1a97bdb-721d-435b-ba76-c54b17a392eb" />
+<img width="1380" height="692" alt="task2_example" src="https://github.com/user-attachments/assets/8aac497d-e34c-4c34-af26-d61ed739ff61" />
 
 
 ## Task 3: Implement Filesystem Checker [60 Points]
