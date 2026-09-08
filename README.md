@@ -1,5 +1,3 @@
-<img width="1380" height="692" alt="task2_example" src="https://github.com/user-attachments/assets/75973053-9867-439b-ae27-2e97cb10b7e8" />
-<img width="1380" height="692" alt="task2_example" src="https://github.com/user-attachments/assets/f3c99b19-82c5-482d-be75-074bda448c2b" />
 # CS5204 - File System Checker
 
 ## Introduction
